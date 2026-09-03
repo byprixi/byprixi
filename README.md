@@ -2,7 +2,7 @@ Heya!<br>
 I'm Priyanshu, a procastinator based in India.<br>
 I'm a Computer Science major.<br>
 A Cinephile, Gamer, Editor, 3D hobbyist(somewhat hehe...),<br>
-in short i'm into mostly everything.<br>
+in short i'm into a bit of everything.<br>
 and yup, that's it about me dear reader...<br>
 
 
