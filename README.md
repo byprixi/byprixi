@@ -1,9 +1,9 @@
 Heya!
-I'm Priyanshu, a procastinator based in India.
-I'm a Computer Science major.
-A Cinephile, Gamer, Editor, 3D hobbyist(somewhat hehe...),
-in short i'm into mostly everything.
-and yup, that's it about me dear reader...
+I'm Priyanshu, a procastinator based in India.<br>
+I'm a Computer Science major.<br>
+A Cinephile, Gamer, Editor, 3D hobbyist(somewhat hehe...),<br?
+in short i'm into mostly everything.<br>
+and yup, that's it about me dear reader...<br>
 
 
 <!--
