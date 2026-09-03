@@ -1,4 +1,10 @@
-## Hi there 👋
+Heya!
+I'm Priyanshu, a procastinator based in India.
+I'm a Computer Science major.
+A Cinephile, Gamer, Editor, 3D hobbyist(somewhat hehe...),
+in short i'm into mostly everything.
+and yup, that's it about me dear reader...
+
 
 <!--
 **byprixi/byprixi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
