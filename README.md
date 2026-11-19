@@ -6,20 +6,6 @@ in short i'm into a bit of everything.<br>
 and yup, that's it about me dear reader...<br>
 
 
-<!--
-**byprixi/byprixi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
 <div align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:b8a9c9&height=140&section=header&text=Priyanshu%20Raj&fontColor=e6d9f2&fontSize=38&fontAlignY=38" width="100%" alt="header" /> <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=16&duration=3000&pause=1000&color=B8A9C9&center=true&vCenter=true&width=460&lines=Heya!+(%E2%89%A7%E2%97%A1%E2%89%A6)+%E2%99%A1;CS+major+%7C+professional+procrastinator;cinephile+%C2%B7+gamer+%C2%B7+editor+%C2%B7+3D+hobbyist" alt="typing" /> </div> <br>
 ✦ About me
 
@@ -35,7 +21,7 @@ Fun fact: I'll finish this README tomorrow. ✧
 
 <br>
 ✦ Skills & Tools
-<!-- Edit this list to match what you actually use. Browse badges at https://simpleicons.org --> <p> <img src="https://img.shields.io/badge/Python-1a1b27?style=flat-square&logo=python&logoColor=b8a9c9" alt="Python" /> <img src="https://img.shields.io/badge/C%2B%2B-1a1b27?style=flat-square&logo=cplusplus&logoColor=b8a9c9" alt="C++" /> <img src="https://img.shields.io/badge/JavaScript-1a1b27?style=flat-square&logo=javascript&logoColor=b8a9c9" alt="JavaScript" /> <img src="https://img.shields.io/badge/Git-1a1b27?style=flat-square&logo=git&logoColor=b8a9c9" alt="Git" /> <img src="https://img.shields.io/badge/VS%20Code-1a1b27?style=flat-square&logo=visualstudiocode&logoColor=b8a9c9" alt="VS Code" /> <img src="https://img.shields.io/badge/Blender-1a1b27?style=flat-square&logo=blender&logoColor=b8a9c9" alt="Blender" /> <img src="https://img.shields.io/badge/Premiere%20Pro-1a1b27?style=flat-square&logo=adobepremierepro&logoColor=b8a9c9" alt="Premiere Pro" /> <img src="https://img.shields.io/badge/After%20Effects-1a1b27?style=flat-square&logo=adobeaftereffects&logoColor=b8a9c9" alt="After Effects" /> </p> <br>
+<!-- Edit this list to match what you actually use. Browse badges at https://simpleicons.org --> <p> <img src="https://img.shields.io/badge/Python-1a1b27?style=flat-square&logo=python&logoColor=b8a9c9" alt="Python" /> <img src="https://img.shields.io/badge/C%2B%2B-1a1b27?style=flat-square&logo=cplusplus&logoColor=b8a9c9" alt="C++" /> <img src="https://img.shields.io/badge/JavaScript-1a1b27?style=flat-square&logo=javascript&logoColor=b8a9c9" alt="JavaScript" /> <img src="https://img.shields.io/badge/Git-1a1b27?style=flat-square&logo=git&logoColor=b8a9c9" alt="Git" /> <img src="https://img.shields.io/badge/VS%20Code-1a1b27?style=flat-square&logo=visualstudiocode&logoColor=b8a9c9" alt="VS Code" /> <img src="https://img.shields.io/badge/Blender-1a1b27?style=flat-square&logo=blender&logoColor=b8a9c9" alt="Blender" /> <img src="https://img.shields.io/badge/DaVinci%20Resolve-1a1b27?style=flat-square&logo=davinciresolve&logoColor=b8a9c9" alt="DaVinci Resolve" /> <img src="https://img.shields.io/badge/After%20Effects-1a1b27?style=flat-square&logo=adobeaftereffects&logoColor=b8a9c9" alt="After Effects" /> </p> <br>
 ✦ GitHub Stats
 <p align="center"> <img height="150" src="https://github-readme-stats.vercel.app/api?username=byprixi&show_icons=true&theme=transparent&title_color=b8a9c9&icon_color=e6b8d4&text_color=c9d1d9&hide_border=true" alt="stats" /> <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=byprixi&layout=compact&theme=transparent&title_color=b8a9c9&text_color=c9d1d9&hide_border=true" alt="top languages" /> </p> <br>
 ✦ Contact
