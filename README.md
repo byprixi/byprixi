@@ -1,9 +1,4 @@
-<!--Heya!<br>
-I'm Priyanshu, a procastinator based in India.<br>
-I'm a Computer Science major.<br>
-A Cinephile, Gamer, Editor, 3D hobbyist(somewhat hehe...),<br>
-in short i'm into a bit of everything.<br>
-and yup, that's it about me dear reader...<br>
+
 
 
 <div align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:b8a9c9&height=140&section=header&text=Priyanshu%20Raj&fontColor=e6d9f2&fontSize=38&fontAlignY=38" width="100%" alt="header" /> <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=16&duration=3000&pause=1000&color=B8A9C9&center=true&vCenter=true&width=460&lines=Heya!+(%E2%89%A7%E2%97%A1%E2%89%A6)+%E2%99%A1;CS+major+%7C+professional+procrastinator;cinephile+%C2%B7+gamer+%C2%B7+editor+%C2%B7+3D+hobbyist" alt="typing" /> </div> <br>
