@@ -6,7 +6,7 @@
 
 I'm Priyanshu, a Computer Science major based in India. I'm into a bit of everything, but mostly these:
 
-🎬 Cinephile, always one more movie to watch
+🎬 Cinephile
 🎮 Gamer, because of course
 ✂️ Video editing, cutting things until they feel right
 🧊 3D, a hobby I'm slowly getting better at
