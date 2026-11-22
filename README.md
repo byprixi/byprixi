@@ -1,4 +1,4 @@
-<div align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:b8a9c9&height=140&section=header&text=prixi&fontColor=e6d9f2&fontSize=38&fontAlignY=38" width="100%" alt="header" /> <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=16&duration=3000&pause=1000&color=B8A9C9&center=true&vCenter=true&width=460&lines=Welcome+to+Prixi%27s+Github" alt="typing" /> </div> <br>
+<div align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:b8a9c9&height=140&section=header&text=Welcome%20to%20Prixi%27s%20Github&fontColor=e6d9f2&fontSize=38&fontAlignY=38" width="100%" alt="header" /> <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=16&duration=3000&pause=1000&color=B8A9C9&center=true&vCenter=true&width=460&lines=CS+major;Gamer" alt="typing" /> </div> <br>
 ✦ About me
 
 I'm Priyanshu, a Computer Science major based in India. I'm into a bit of everything.
