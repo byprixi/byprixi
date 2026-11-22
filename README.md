@@ -3,7 +3,7 @@
 <div align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:b8a9c9&height=140&section=header&text=prixi&fontColor=e6d9f2&fontSize=42&fontAlignY=38" width="100%" alt="header" /> <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=16&duration=3000&pause=1000&color=B8A9C9&center=true&vCenter=true&width=460&lines=Computer+Science+Student;Software+Development;Based+in+India" alt="typing" /> </div> <br>
 About
 
-Computer Science student based in India, focused on software development and building reliable, well-structured projects.
+Computer Science student based in India.
 
 <br>
 Skills & Tools
